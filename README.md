@@ -1,4 +1,4 @@
-# Clusteriza-oKMeans
+# Clusterizacao KMeans
 Este foi um projeto realizado na faculdade UNA em 2023 onde foi realizado a clusterização em uma base de vendas de pizza
 
 🍕 CLUSTERIZAÇÃO DOS DADOS DE PIZZA
